@@ -1,0 +1,70 @@
+@font-face {
+  font-family: 'mybook';
+  src: url('./iconfont.eot') format('embedded-opentype'),
+  url('./iconfont.woff2') format('woff2'),
+  url('./iconfont.woff') format('woff'),
+  url('./iconfont.ttf') format('truetype'),
+  url('./iconfont.svg') format('svg');
+}
+[class*=" icon"],[class^="icon"]{
+  font-family: "mybook";
+}
+.iconfont {
+  font-family: "iconfont" !important;
+  font-size: 16px;
+  font-style: normal;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+.icon-liaotian:before {
+  content: "\e667";
+}
+
+.icon-gouwuchekong:before {
+  content: "\e600";
+}
+
+.icon-home:before {
+  content: "\e601";
+}
+
+.icon-mai:before {
+  content: "\e610";
+}
+
+.icon-fenlei-unSelect:before {
+  content: "\e602";
+}
+
+.icon-index:before {
+  content: "\e603";
+}
+
+.icon-huitui:before {
+  content: "\e61a";
+}
+
+.icon-shoucang:before {
+  content: "\e6f6";
+}
+
+.icon-guanbi:before {
+  content: "\e605";
+}
+
+.icon-fangdajing:before {
+  content: "\e68f";
+}
+
+.icon-jiantou-up-down:before {
+  content: "\e604";
+}
+
+.icon-arrow-up1:before {
+  content: "\e607";
+}
+
+.icon-huitui1-copy:before {
+  content: "\e606";
+}
+
